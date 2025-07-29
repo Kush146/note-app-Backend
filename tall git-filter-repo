@@ -1,0 +1,11 @@
+[33mcommit a9f392668d97a472cd226ab6db7fa23dcea07452[m[33m ([m[1;32mmain[m[33m)[m
+Author: unknown <kushkore90@gmail.com>
+Date:   Tue Jul 29 16:14:18 2025 +0530
+
+    Removed .env and added to .gitignore
+
+[33mcommit 51db752a89b434af9005607b97c89b3f2da2ee90[m
+Author: unknown <kushkore90@gmail.com>
+Date:   Tue Jul 29 16:06:09 2025 +0530
+
+    Initial backend commit
